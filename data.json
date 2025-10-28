@@ -1,0 +1,96 @@
+{
+  "Monrovia": {
+    "Monrovia City": [
+      {"name": "Broad Street", "lat": 6.3106, "lon": -10.8047},
+      {"name": "Ashmun Street", "lat": 6.3122, "lon": -10.8025},
+      {"name": "Benson Street", "lat": 6.3098, "lon": -10.7979},
+      {"name": "Slipway", "lat": 6.3033, "lon": -10.7962},
+      {"name": "Mamba Point", "lat": 6.3205, "lon": -10.8084},
+      {"name": "Vai Town", "lat": 6.3299, "lon": -10.8043},
+      {"name": "Water Street", "lat": 6.3094, "lon": -10.8008},
+      {"name": "Camp Johnson Road", "lat": 6.3085, "lon": -10.8020},
+      {"name": "Randall Street", "lat": 6.3071, "lon": -10.7991},
+      {"name": "Crown Hill", "lat": 6.3081, "lon": -10.7984},
+      {"name": "Lynch Street", "lat": 6.3070, "lon": -10.8001},
+      {"name": "Jallah Town", "lat": 6.3029, "lon": -10.7733}
+    ],
+    "West Point Borough": [
+      {"name": "West Point Main", "lat": 6.3330, "lon": -10.8099},
+      {"name": "Tusa Field", "lat": null, "lon": null},
+      {"name": "Waterside Extension", "lat": null, "lon": null}
+    ],
+    "New Kru Town Borough": [
+      {"name": "Popo Beach A", "lat": 6.3803, "lon": -10.7977},
+      {"name": "Popo Beach B", "lat": 6.3825, "lon": -10.7985},
+      {"name": "Lagoon East", "lat": null, "lon": null},
+      {"name": "Lagoon West", "lat": null, "lon": null},
+      {"name": "Bong Mines Bridge", "lat": 6.3734, "lon": -10.7970},
+      {"name": "Point Four", "lat": 6.3709, "lon": -10.7914},
+      {"name": "Duala", "lat": 6.3722, "lon": -10.7927},
+      {"name": "Logan Town", "lat": 6.3568, "lon": -10.7924}
+    ],
+    "Clara Town": [
+      {"name": "Central Clara Town", "lat": 6.3481, "lon": -10.7952},
+      {"name": "Jamaica Road", "lat": 6.3492, "lon": -10.7968},
+      {"name": "Freeport Community", "lat": 6.3530, "lon": -10.8009}
+    ],
+    "Congo Town Township": [
+      {"name": "Swankamore", "lat": 6.2755, "lon": -10.7397},
+      {"name": "Key and Death Hole", "lat": 6.2730, "lon": -10.7369},
+      {"name": "Old Road", "lat": 6.2801, "lon": -10.7432},
+      {"name": "Sophie Community", "lat": 6.2822, "lon": -10.7404},
+      {"name": "Pagos Island", "lat": 6.2921, "lon": -10.7250},
+      {"name": "Peace Island", "lat": 6.2939, "lon": -10.7293},
+      {"name": "Gaye Town", "lat": 6.2792, "lon": -10.7447}
+    ],
+    "Gardnersville Township": [
+      {"name": "Chicken Soup Factory", "lat": 6.3662, "lon": -10.6981},
+      {"name": "Barnesville Estate", "lat": 6.3564, "lon": -10.7299},
+      {"name": "Joe Bar", "lat": 6.3580, "lon": -10.7155},
+      {"name": "Dry Rice Market", "lat": 6.3632, "lon": -10.7084},
+      {"name": "Stephen Tolbert Estate", "lat": 6.3601, "lon": -10.7095},
+      {"name": "GSA Road", "lat": 6.3420, "lon": -10.7063}
+    ],
+    "New Georgia Township": [
+      {"name": "Chocolate City A", "lat": 6.3903, "lon": -10.7257},
+      {"name": "Chocolate City B", "lat": 6.3924, "lon": -10.7289},
+      {"name": "Battery Factory", "lat": 6.3877, "lon": -10.7314},
+      {"name": "Jacob Town", "lat": 6.3475, "lon": -10.7188},
+      {"name": "Plumkor", "lat": null, "lon": null}
+    ],
+    "Barnesville Township": [
+      {"name": "Cowfield", "lat": 6.3615, "lon": -10.7223},
+      {"name": "Pipeline", "lat": 6.3553, "lon": -10.7144},
+      {"name": "Kebbah", "lat": 6.3505, "lon": -10.7115}
+    ],
+    "Paynesville City": [
+      {"name": "Red Light", "lat": 6.2925, "lon": -10.6997},
+      {"name": "Duport Road", "lat": 6.2874, "lon": -10.6913},
+      {"name": "Parker Paint", "lat": 6.2991, "lon": -10.6910},
+      {"name": "72nd Community", "lat": 6.2910, "lon": -10.6840},
+      {"name": "Rehab Community", "lat": 6.3083, "lon": -10.6886},
+      {"name": "ELWA Community", "lat": 6.2732, "lon": -10.6948},
+      {"name": "King Gray Town", "lat": 6.2701, "lon": -10.6955},
+      {"name": "Omega Community", "lat": 6.2962, "lon": -10.7092}
+    ],
+    "Caldwell Township": [
+      {"name": "Central Caldwell", "lat": 6.4222, "lon": -10.7350},
+      {"name": "Samukai Town", "lat": 6.4195, "lon": -10.7292},
+      {"name": "Cassava Hill", "lat": null, "lon": null},
+      {"name": "Doe Bridge", "lat": null, "lon": null}
+    ],
+    "Sinkor District": [
+      {"name": "12th Street", "lat": 6.3004, "lon": -10.7752},
+      {"name": "13th Street", "lat": 6.3010, "lon": -10.7746},
+      {"name": "14th Street", "lat": 6.3021, "lon": -10.7739},
+      {"name": "16th Street", "lat": 6.3039, "lon": -10.7717},
+      {"name": "Fish Market", "lat": 6.3001, "lon": -10.7644},
+      {"name": "Airfield Community", "lat": 6.2968, "lon": -10.7675}
+    ],
+    "Johnsonville Township": [
+      {"name": "Mount Barclay", "lat": 6.3742, "lon": -10.6827},
+      {"name": "Smell-No-Taste", "lat": 6.3678, "lon": -10.6822},
+      {"name": "Wheein Town", "lat": 6.3629, "lon": -10.6834}
+    ]
+  }
+}
